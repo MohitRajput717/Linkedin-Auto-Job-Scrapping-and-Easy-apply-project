@@ -367,7 +367,9 @@ Use automation responsibly. Respect LinkedIn's terms, applicable privacy and dat
 
 ## 👨‍💻 Author
 
-**Vikas Patel**
+**Mohit Rajput**
+
+[LinkedIn](https://linkedin.com/in/mohit-singh-analyst/)
 
 *Python · SQL · Data Analytics · Automation · Data Engineering*
 
